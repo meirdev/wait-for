@@ -1,6 +1,6 @@
 # Wait For
 
-Wait until the resource is available/unavailable.
+Wait until the resource is available.
 
 ## Example
 
