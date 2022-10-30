@@ -1,6 +1,6 @@
 # Wait For
 
-Wait until the resource is available.
+Wait until the resource is available. Inspired by https://www.npmjs.com/package/wait-on.
 
 ## Example
 
